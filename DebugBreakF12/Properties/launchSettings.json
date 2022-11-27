@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DebugBreakF12": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
